@@ -1,0 +1,1 @@
+{"description": "rule1", "condition": "All", "condition_options": "From", "subject": "Subject", "date_received": "Date received", "option1": "contains", "option2": "contains", "option3": "is less than", "entry_1": "bru@gmail.com", "entry_2": "interview", "entry_3": "2", "action1": "Move message", "action2": "Mark as read", "mailbox": "Inbox"}
